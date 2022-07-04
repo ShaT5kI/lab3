@@ -35,9 +35,7 @@ public class ConsoleController extends AbstractController {
 
     @Override
     public Command waitCommand() throws ClassExistenceException {
-//        System.out.println(scanner.nextLine().trim());
-//        var cmdStr = scanner.nextLine().trim();
-        var cmdStr = "1";
+        var cmdStr = scanner.nextLine().trim();
         return makeCommand(cmdStr);
     }
 }
