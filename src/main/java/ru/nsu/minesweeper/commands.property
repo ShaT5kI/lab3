@@ -1,0 +1,12 @@
+open=Open
+set=SetFlag
+remove=RemoveFlag
+tip=Tip
+surrender=Surrender
+1=NewGame
+2=HighScores
+3=About
+4=Exit
+restart=Restart
+menu=Menu
+exit=Exit
